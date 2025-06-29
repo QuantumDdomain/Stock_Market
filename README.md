@@ -42,7 +42,6 @@ This module formulates a **quantum risk analysis and portfolio optimization** ta
 - **QUBO Formulation:** Encodes risk-return trade-off in a quadratic binary model.
 - **Quantum Circuit:** Constructs QAOA circuit using cost and mixer Hamiltonians.
 - **Expectation Evaluation:** Measures and optimizes the QAOA energy landscape to select optimal portfolio assets.
-- **Simulation:** Run on `qiskit.primitives.Estimator` and `AerSimulator` to simulate real quantum backend.
 
 ---
 
